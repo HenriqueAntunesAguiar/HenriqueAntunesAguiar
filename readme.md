@@ -25,7 +25,7 @@ Gosto de trabalhar em problemas que exigem visão arquitetural, não apenas impl
 
 ## 🛠️ Stacks & Tecnologias
 
-# Linguagens & Backend
+### Linguagens & Backend
 
 Python
 
@@ -35,7 +35,7 @@ Flask
 
 Node.js (Express)
 
-# Arquitetura & Engenharia
+### Arquitetura & Engenharia
 
 Clean Architecture
 
@@ -45,7 +45,7 @@ Microsserviços
 
 APIs REST
 
-# Qualidade & DevOps
+### Qualidade & DevOps
 
 Testes automatizados (TDD)
 
@@ -55,7 +55,7 @@ Docker
 
 Integração e Entrega Contínua
 
-## ☁️ Cloud / Dados / Backend (se fizer sentido)
+### ☁️ Cloud / Dados / Backend (se fizer sentido)
 
 AWS
 
@@ -67,7 +67,7 @@ Lake Formation (governança de dados)
 
 QuickSight (visualização e consumo de dados)
 
-# Dados & Pipelines
+### Dados & Pipelines
 
 Data Lakes na AWS
 
