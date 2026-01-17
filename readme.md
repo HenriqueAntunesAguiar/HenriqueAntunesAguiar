@@ -1,9 +1,84 @@
 👋 Apresentação
-🧠 Sobre mim / O que eu faço
+Sou Engenheiro de Software com foco em backend, cloud AWS e arquitetura de sistemas, atuando principalmente em ambientes corporativos com repositórios privados.
+Tenho experiência no desenvolvimento de APIs, microsserviços, pipelines de dados e soluções orientadas a arquitetura, sempre com forte preocupação com qualidade, testes e escalabilidade.
+
+🧠 Dia a dia
+🧩 Desenvolvimento de APIs REST com Python (Django / DRF / Flask)
+
+🏗️ Aplicação de princípios de Clean Architecture, DDD e microsserviços
+
+🧪 Forte foco em qualidade de código, testes automatizados (TDD) e boas práticas
+
+☁️ Atuação diária em AWS, integrando aplicações com serviços de dados e cloud
+
+📊 Construção e consumo de Data Lakes, desde ingestão até visualização
+
+🤖 Exploração de IA Generativa como diferencial (LangChain, LLMs)
+
+Gosto de trabalhar em problemas que exigem visão arquitetural, não apenas implementação.
+
 🛠️ Stacks & Tecnologias
+
+Linguagens & Backend
+
+Python
+
+Django / Django REST Framework
+
+Flask
+
+Node.js (Express)
+
+Arquitetura & Engenharia
+
+Clean Architecture
+
+Domain-Driven Design (DDD)
+
+Microsserviços
+
+APIs REST
+
+Qualidade & DevOps
+
+Testes automatizados (TDD)
+
+CI/CD (GitHub Actions)
+
+Docker
+
+Integração e Entrega Contínua
+
 ☁️ Cloud / Dados / Backend (se fizer sentido)
-📊 GitHub Stats (opcional)
+
+AWS
+
+EC2, S3
+
+Glue, Athena
+
+Lake Formation (governança de dados)
+
+QuickSight (visualização e consumo de dados)
+
+Dados & Pipelines
+
+Data Lakes na AWS
+
+SQL
+
+Pandas
+
+Apache Airflow
+
+Atuo desde a modelagem e ingestão dos dados até a entrega de valor para o negócio via APIs ou dashboards.
+
 🔗 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/henrique-antunes-aguiar-b8925116a/
+
+📧 Email: hantunesaguiar@gmail.com
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
