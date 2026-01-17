@@ -3,25 +3,17 @@ Sou Engenheiro de Software com foco em backend, cloud AWS e arquitetura de siste
 Tenho experiência no desenvolvimento de APIs, microsserviços, pipelines de dados e soluções orientadas a arquitetura, sempre com forte preocupação com qualidade, testes e escalabilidade.
 
 ## 🧠 Sobre mim
-🧩 Desenvolvimento de APIs REST com Python (Django / DRF / Flask)
+- 🧩 Desenvolvimento de **APIs REST** com Python (Django / DRF / Flask)
+- 🏗️ Aplicação de princípios de **Clean Architecture, DDD e microsserviços**
+- 🧪 Forte foco em **qualidade de código**, testes automatizados (TDD) e boas práticas
+- ☁️ Atuação diária em **AWS**, integrando aplicações com serviços de dados e cloud
+- 📊 Construção e consumo de **Data Lakes**, da ingestão à visualização de dados
+- 🤖 Exploração de **IA Generativa** como diferencial (LangChain, LLMs)
+- 💕 **Automação e customização de CRM** (SAP e Pipefy)
+- 🔄 **Reestruturação de processos legados**, com foco em escalabilidade e manutenção
+- 📋 **Coordenação de demandas de TI**, organizando esteiras de prioridade e métodos ágeis
 
-🏗️ Aplicação de princípios de Clean Architecture, DDD e microsserviços
-
-🧪 Forte foco em qualidade de código, testes automatizados (TDD) e boas práticas
-
-☁️ Atuação diária em AWS, integrando aplicações com serviços de dados e cloud
-
-📊 Construção e consumo de Data Lakes, desde ingestão até visualização
-
-🤖 Exploração de IA Generativa como diferencial (LangChain, LLMs)
-
-💕Automação e customização de CRM (SAP e Pipefy)
-
-Reestruturação de processos herdados
-
-Coordenação de demnadas de TI (esteira de prioridade e métodos agéis)
-
-Gosto de trabalhar em problemas que exigem visão arquitetural, não apenas implementação.
+Gosto de trabalhar em problemas que exigem **visão arquitetural**, não apenas implementação.
 
 ## 🛠️ Stacks & Tecnologias
 
