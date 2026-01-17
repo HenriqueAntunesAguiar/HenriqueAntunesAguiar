@@ -1,5 +1,5 @@
 ## 👋 Apresentação
-Sou Engenheiro de Software com foco em backend, cloud AWS e arquitetura de sistemas, atuando principalmente em ambientes corporativos com repositórios privados.
+Sou Desenvolvedor Sr com foco em engenharia de software, backend, cloud AWS e arquitetura de sistemas, atuando principalmente em ambientes corporativos com repositórios privados.
 Tenho experiência no desenvolvimento de APIs, microsserviços, pipelines de dados e soluções orientadas a arquitetura, sempre com forte preocupação com qualidade, testes e escalabilidade.
 
 ## 🧠 Sobre mim
@@ -18,56 +18,36 @@ Gosto de trabalhar em problemas que exigem **visão arquitetural**, não apenas 
 ## 🛠️ Stacks & Tecnologias
 
 ### Linguagens & Backend
-
-Python
-
-Django / Django REST Framework
-
-Flask
-
-Node.js (Express)
+- Python
+- Django / Django REST Framework
+- Flask
 
 ### Arquitetura & Engenharia
-
-Clean Architecture
-
-Domain-Driven Design (DDD)
-
-Microsserviços
-
-APIs REST
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Microsserviços
+- APIs REST
 
 ### Qualidade & DevOps
-
-Testes automatizados (TDD)
-
-CI/CD (GitHub Actions)
-
-Docker
-
-Integração e Entrega Contínua
+- Testes automatizados (TDD)
+- CI/CD (GitHub Actions)
+- Docker
+- Integração e Entrega Contínua
 
 ### ☁️ Cloud / Dados / Backend (se fizer sentido)
-
-AWS
-
-EC2, S3
-
-Glue, Athena
-
-Lake Formation (governança de dados)
-
-QuickSight (visualização e consumo de dados)
+- AWS
+- EC2, S3
+- Glue, Athena
+- Lake Formation (governança de dados)
+- QuickSight (visualização e consumo de dados)
 
 ### Dados & Pipelines
 
-Data Lakes na AWS
-
-SQL
-
-Pandas
-
-Apache Airflow
+- Data Lakes na AWS
+- SQL
+- NoSQL
+- Pandas
+- Apache Airflow
 
 Atuo desde a modelagem e ingestão dos dados até a entrega de valor para o negócio via APIs ou dashboards.
 
