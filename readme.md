@@ -2,7 +2,7 @@
 Sou Engenheiro de Software com foco em backend, cloud AWS e arquitetura de sistemas, atuando principalmente em ambientes corporativos com repositórios privados.
 Tenho experiência no desenvolvimento de APIs, microsserviços, pipelines de dados e soluções orientadas a arquitetura, sempre com forte preocupação com qualidade, testes e escalabilidade.
 
-## 🧠 Dia a dia
+## 🧠 Sobre mim
 🧩 Desenvolvimento de APIs REST com Python (Django / DRF / Flask)
 
 🏗️ Aplicação de princípios de Clean Architecture, DDD e microsserviços
