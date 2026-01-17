@@ -1,8 +1,8 @@
-👋 Apresentação
+## 👋 Apresentação
 Sou Engenheiro de Software com foco em backend, cloud AWS e arquitetura de sistemas, atuando principalmente em ambientes corporativos com repositórios privados.
 Tenho experiência no desenvolvimento de APIs, microsserviços, pipelines de dados e soluções orientadas a arquitetura, sempre com forte preocupação com qualidade, testes e escalabilidade.
 
-🧠 Dia a dia
+## 🧠 Dia a dia
 🧩 Desenvolvimento de APIs REST com Python (Django / DRF / Flask)
 
 🏗️ Aplicação de princípios de Clean Architecture, DDD e microsserviços
@@ -17,7 +17,7 @@ Tenho experiência no desenvolvimento de APIs, microsserviços, pipelines de dad
 
 Gosto de trabalhar em problemas que exigem visão arquitetural, não apenas implementação.
 
-🛠️ Stacks & Tecnologias
+## 🛠️ Stacks & Tecnologias
 
 Linguagens & Backend
 
@@ -49,7 +49,7 @@ Docker
 
 Integração e Entrega Contínua
 
-☁️ Cloud / Dados / Backend (se fizer sentido)
+## ☁️ Cloud / Dados / Backend (se fizer sentido)
 
 AWS
 
@@ -73,7 +73,7 @@ Apache Airflow
 
 Atuo desde a modelagem e ingestão dos dados até a entrega de valor para o negócio via APIs ou dashboards.
 
-🔗 Contato
+## 🔗 Contato
 
 💼 LinkedIn: https://www.linkedin.com/in/henrique-antunes-aguiar-b8925116a/
 
