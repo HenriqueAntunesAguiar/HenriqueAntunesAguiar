@@ -15,11 +15,17 @@ Tenho experiência no desenvolvimento de APIs, microsserviços, pipelines de dad
 
 🤖 Exploração de IA Generativa como diferencial (LangChain, LLMs)
 
+💕Automação e customização de CRM (SAP e Pipefy)
+
+Reestruturação de processos herdados
+
+Coordenação de demnadas de TI (esteira de prioridade e métodos agéis)
+
 Gosto de trabalhar em problemas que exigem visão arquitetural, não apenas implementação.
 
 ## 🛠️ Stacks & Tecnologias
 
-Linguagens & Backend
+# Linguagens & Backend
 
 Python
 
@@ -29,7 +35,7 @@ Flask
 
 Node.js (Express)
 
-Arquitetura & Engenharia
+# Arquitetura & Engenharia
 
 Clean Architecture
 
@@ -39,7 +45,7 @@ Microsserviços
 
 APIs REST
 
-Qualidade & DevOps
+# Qualidade & DevOps
 
 Testes automatizados (TDD)
 
@@ -61,7 +67,7 @@ Lake Formation (governança de dados)
 
 QuickSight (visualização e consumo de dados)
 
-Dados & Pipelines
+# Dados & Pipelines
 
 Data Lakes na AWS
 
