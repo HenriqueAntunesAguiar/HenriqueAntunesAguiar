@@ -24,6 +24,7 @@ Gosto de trabalhar em problemas que exigem **visão arquitetural**, não apenas 
 
 ### Arquitetura & Engenharia
 - Clean Architecture
+- Hexagonal Architecture
 - Domain-Driven Design (DDD)
 - Microsserviços
 - APIs REST
