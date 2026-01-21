@@ -1,4 +1,4 @@
-## 👋 Apresentação
+## 👋 Ola!
 Sou Desenvolvedor Sr com foco em engenharia de software, backend, cloud AWS e arquitetura de sistemas, atuando principalmente em ambientes corporativos com repositórios privados.
 Tenho experiência no desenvolvimento de APIs, microsserviços, pipelines de dados e soluções orientadas a arquitetura, sempre com forte preocupação com qualidade, testes e escalabilidade.
 
@@ -58,6 +58,7 @@ Atuo desde a modelagem e ingestão dos dados até a entrega de valor para o neg�
 
 📧 Email: hantunesaguiar@gmail.com
 
+Cursos: https://cursos.alura.com.br/user/hantunesaguiar/fullCertificate/95a9ecbc35195454e9a054e4dd0048b4
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
