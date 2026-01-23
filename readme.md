@@ -9,7 +9,7 @@ Tenho experiência no desenvolvimento de APIs, microsserviços, pipelines de dad
 - ☁️ Atuação diária em **AWS**, integrando aplicações com serviços de dados e cloud
 - 📊 Construção e consumo de **Data Lakes**, da ingestão à visualização de dados
 - 🤖 Exploração de **IA Generativa** como diferencial (LangChain, LLMs)
-- 💕 **Automação e customização de CRM** (SAP e Pipefy)
+- 💻**Automação e customização de CRM** (SAP e Pipefy)
 - 🔄 **Reestruturação de processos legados**, com foco em escalabilidade e manutenção
 - 📋 **Coordenação de demandas de TI**, organizando esteiras de prioridade e métodos ágeis
 
