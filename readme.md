@@ -37,7 +37,7 @@ Gosto de trabalhar em problemas que exigem **visão arquitetural**, não apenas 
 
 ### ☁️ Cloud / Dados / Backend (se fizer sentido)
 - AWS
-- EC2, S3
+- EC2, S3, Route 53, SES, IAM
 - Glue, Athena
 - Lake Formation (governança de dados)
 - QuickSight (visualização e consumo de dados)
