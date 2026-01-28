@@ -65,6 +65,7 @@ Cursos: https://cursos.alura.com.br/user/hantunesaguiar/fullCertificate/95a9ecbc
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
+![Hexagonal Architecture](https://img.shields.io/badge/Architecture-Hexagonal-6C5CE7?style=for-the-badge)
 ![DDD](https://img.shields.io/badge/DDD-4B0082?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
@@ -72,6 +73,7 @@ Cursos: https://cursos.alura.com.br/user/hantunesaguiar/fullCertificate/95a9ecbc
 ![TDD](https://img.shields.io/badge/TDD-0A66C2?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
