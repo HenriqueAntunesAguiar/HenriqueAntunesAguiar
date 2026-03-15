@@ -21,6 +21,9 @@ Gosto de trabalhar em problemas que exigem **visão arquitetural**, não apenas 
 - Python
 - Django / Django REST Framework
 - Flask
+- HTML
+- CSS
+- Js
 
 ### Arquitetura & Engenharia
 - Clean Architecture
@@ -33,9 +36,13 @@ Gosto de trabalhar em problemas que exigem **visão arquitetural**, não apenas 
 - Testes automatizados (TDD)
 - CI/CD (GitHub Actions)
 - Docker
+- Kubernets
 - Integração e Entrega Contínua
+- Linux
+- Kafka
+- RabbitMQ
 
-### ☁️ Cloud / Dados / Backend (se fizer sentido)
+### ☁️ Cloud 
 - AWS
 - EC2, S3, Route 53, SES, IAM
 - Glue, Athena
@@ -49,6 +56,7 @@ Gosto de trabalhar em problemas que exigem **visão arquitetural**, não apenas 
 - NoSQL
 - Pandas
 - Apache Airflow
+- PowerBi
 
 Atuo desde a modelagem e ingestão dos dados até a entrega de valor para o negócio via APIs ou dashboards.
 
