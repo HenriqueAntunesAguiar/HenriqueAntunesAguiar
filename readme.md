@@ -41,6 +41,8 @@ Gosto de trabalhar em problemas que exigem **visão arquitetural**, não apenas 
 - Linux
 - Kafka
 - RabbitMQ
+- Nginx
+- API Gateway
 
 ### ☁️ Cloud 
 - AWS
