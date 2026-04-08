@@ -59,8 +59,11 @@ Gosto de trabalhar em problemas que exigem **visão arquitetural**, não apenas 
 - Pandas
 - Apache Airflow
 - PowerBi
+- Scikit-Learn
+- Numpy
+- Matplotlib
 
-Atuo desde a modelagem e ingestão dos dados até a entrega de valor para o negócio via APIs ou dashboards.
+Atuo desde a modelagem, estudo, testes de qualidade e ingestão dos dados até a entrega de valor para o negócio via APIs ou dashboards.
 
 ## 🔗 Contato
 
