@@ -6,7 +6,7 @@ Atualmente trabalho desenvolvendo e evoluindo sistemas corporativos de alta crit
 
 Minha experiência combina engenharia de software, infraestrutura cloud, engenharia de dados e automação de processos, sempre com foco em escalabilidade, eficiência operacional, observabilidade e geração de valor para o negócio.
 
-## 🚀 Áreas de atuação
+## Áreas de atuação
 ### Backend Engineering
 - Desenvolvimento de APIs e aplicações utilizando Python
 - Django, Django REST Framework, Flask e FastAPI
@@ -42,7 +42,7 @@ Minha experiência combina engenharia de software, infraestrutura cloud, engenha
 - Governança e observabilidade de dados
 - Dashboards e plataformas analíticas
   
-## 🏗️ Experiência prática
+## Experiência prática
 
 Ao longo da minha trajetória venho atuando em projetos envolvendo:
 
@@ -86,7 +86,7 @@ LangChain • LangGraph • LangFlow • LangSmith • MCP • RAG • Multi-Age
 
 Prometheus • Grafana • Logging Distribuído • Monitoramento
 
-## 📚 Aprendizado Contínuo
+## Aprendizado Contínuo
 
 Mais de 600 horas de formação técnica, com foco em:
 
@@ -100,7 +100,7 @@ Mais de 600 horas de formação técnica, com foco em:
 - IA Generativa
 - LangChain, LangGraph, LangSmithm LangFlow e aplicações com LLMs
 
-## 🎯 Interesses atuais
+## Interesses atuais
 - IA aplicada ao negócio
 - Arquiteturas distribuídas
 - Engenharia de Plataforma
