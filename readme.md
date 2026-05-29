@@ -1,106 +1,111 @@
-## 👋 Ola!
-Sou Desenvolvedor Sr com foco em engenharia de software, backend, cloud AWS e arquitetura de sistemas, atuando principalmente em ambientes corporativos com repositórios privados.
-Tenho experiência no desenvolvimento de APIs, microsserviços, pipelines de dados e soluções orientadas a arquitetura, sempre com forte preocupação com qualidade, testes e escalabilidade.
+# 👋 Olá, eu sou Henrique Aguiar
 
-## 🧠 Sobre mim
-- 🧩 Desenvolvimento de **APIs REST** com Python (Django / DRF / Flask)
-- 🏗️ Aplicação de princípios de **Clean Architecture, DDD e microsserviços**
-- 🧪 Forte foco em **qualidade de código**, testes automatizados (TDD) e boas práticas
-- ☁️ Atuação diária em **AWS**, integrando aplicações com serviços de dados e cloud
-- 📊 Construção e consumo de **Data Lakes**, da ingestão à visualização de dados
-- 🤖 Exploração de **IA Generativa** como diferencial (LangChain, LLMs)
-- 💻**Automação e customização de CRM** (SAP e Pipefy)
-- 🔄 **Reestruturação de processos legados**, com foco em escalabilidade e manutenção
-- 📋 **Coordenação de demandas de TI**, organizando esteiras de prioridade e métodos ágeis
+Sou Senior Software Engineer com atuação em arquitetura de software, sistemas distribuídos, plataformas de dados, cloud computing e aplicações baseadas em Inteligência Artificial.
 
-Gosto de trabalhar em problemas que exigem **visão arquitetural**, não apenas implementação.
+Atualmente trabalho desenvolvendo e evoluindo sistemas corporativos de alta criticidade, participando desde decisões estratégicas de arquitetura até a implementação de soluções escaláveis em produção.
 
-## 🛠️ Stacks & Tecnologias
+Minha experiência combina engenharia de software, infraestrutura cloud, engenharia de dados e automação de processos, sempre com foco em escalabilidade, eficiência operacional, observabilidade e geração de valor para o negócio.
 
-### Linguagens & Backend
-- Python
-- Django / Django REST Framework
-- Flask
-- HTML
-- CSS
-- Js
-
-### Arquitetura & Engenharia
+## 🚀 Áreas de atuação
+### Backend Engineering
+- Desenvolvimento de APIs e aplicações utilizando Python
+- Django, Django REST Framework, Flask e FastAPI
+- Microsserviços e sistemas distribuídos
+- Arquiteturas orientadas a eventos
+- Integrações corporativas e automação de processos críticos
+### Inteligência Artificial
+- Aplicações com IA Generativa
+- Sistemas RAG (Retrieval Augmented Generation)
+- Agentes inteligentes e arquiteturas multiagentes
+- Orquestração de workflows com LangGraph e LangFlow
+- Observabilidade e monitoramento de aplicações LLM com LangSmith
+- Integrações utilizando MCP (Model Context Protocol)
+- Automação operacional baseada em LLMs
+### Arquitetura de Software
 - Clean Architecture
 - Hexagonal Architecture
 - Domain-Driven Design (DDD)
-- Microsserviços
-- APIs REST
-
-### Qualidade & DevOps
-- Testes automatizados (TDD)
-- CI/CD (GitHub Actions)
-- Docker
-- Kubernets
-- Integração e Entrega Contínua
-- Linux
-- Kafka
-- RabbitMQ
-- Nginx
 - API Gateway
-
-### ☁️ Cloud 
+- Arquiteturas escaláveis e desacopladas
+- Evolução de sistemas legados para ambientes modernos
+### Cloud & Platform Engineering
 - AWS
-- EC2, S3, Route 53, SES, IAM
-- Glue, Athena
-- Lake Formation (governança de dados)
-- QuickSight (visualização e consumo de dados)
+- Docker e Kubernetes
+- Linux e Nginx
+- CI/CD com GitHub Actions
+- Infraestrutura orientada à escalabilidade e disponibilidade
+- Otimização de ambientes cloud e redução de custos operacionais
+### Engenharia de Dados
+- Construção de Data Lakes na AWS
+- Processamento e ingestão de dados
+- Pipelines ETL
+- Governança e observabilidade de dados
+- Dashboards e plataformas analíticas
+  
+## 🏗️ Experiência prática
 
-### Dados & Pipelines
+Ao longo da minha trajetória venho atuando em projetos envolvendo:
 
-- Data Lakes na AWS
-- SQL
-- NoSQL
-- Pandas
-- Apache Airflow
-- PowerBi
-- Scikit-Learn
-- Numpy
-- Matplotlib
+- Implementação de aplicações com IA Generativa para automação operacional e suporte à tomada de decisão;
+- Desenvolvimento de sistemas RAG e agentes inteligentes para análise e tratamento de dados corporativos;
+- Desenvolvimento de plataformas corporativas baseadas em arquitetura hexagonal;
+- Modernização de sistemas monolíticos para microsserviços;
+- Estruturação de Data Lakes e plataformas analíticas na AWS;
+- Construção de soluções distribuídas utilizando mensageria e processamento assíncrono;
+- Sistemas de observabilidade com correlação inteligente de logs;
+- Automação de processos corporativos integrados a CRM;
 
-Atuo desde a modelagem, estudo, testes de qualidade e ingestão dos dados até a entrega de valor para o negócio via APIs ou dashboards.
+Essas iniciativas fizeram parte diretamente da minha atuação em ambientes corporativos do setor de energia, com foco em escalabilidade, governança e eficiência operacional.
 
-## 🔗 Contato
+## 🛠️ Stack Principal
+### Backend
 
-💼 LinkedIn: https://www.linkedin.com/in/henrique-antunes-aguiar-b8925116a/
+Python • Django • DRF • Flask • FastAPI
 
-📧 Email: hantunesaguiar@gmail.com
+### Arquitetura
 
-Cursos: https://cursos.alura.com.br/user/hantunesaguiar/fullCertificate/95a9ecbc35195454e9a054e4dd0048b4
+Clean Architecture • Hexagonal Architecture • DDD • Microsserviços
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### Cloud & DevOps
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
-![Hexagonal Architecture](https://img.shields.io/badge/Architecture-Hexagonal-6C5CE7?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-4B0082?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+AWS • Docker • Kubernetes • Linux • GitHub Actions • Nginx
 
-![TDD](https://img.shields.io/badge/TDD-0A66C2?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Sistemas Distribuídos
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Athena](https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Glue](https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![QuickSight](https://img.shields.io/badge/Amazon_QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lake Formation](https://img.shields.io/badge/AWS_Lake_Formation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+Kafka • RabbitMQ • Event-Driven Architecture
 
+### Dados
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+PostgreSQL • SQL • Pandas • Airflow • Athena • QuickSight • Power BI
 
+### IA
 
+LangChain • LangGraph • LangFlow • LangSmith • MCP • RAG • Multi-Agents • LLM Applications • IA Generativa
 
+### Observabilidade
 
+Prometheus • Grafana • Logging Distribuído • Monitoramento
 
+## 📚 Aprendizado Contínuo
+
+Mais de 600 horas de formação técnica, com foco em:
+
+- Engenharia de Software
+- Arquitetura de Microsserviços
+- Sistemas Distribuídos
+- Engenharia de Dados
+- Cloud Computing
+- Observabilidade
+- DevOps
+- IA Generativa
+- LangChain, LangGraph, LangSmithm LangFlow e aplicações com LLMs
+
+## 🎯 Interesses atuais
+- IA aplicada ao negócio
+- Arquiteturas distribuídas
+- Engenharia de Plataforma
+- Event-Driven Systems
+- Multiagentes e automação inteligente
+- Observabilidade
+- Engenharia de Dados
+- Cloud Architecture
