@@ -57,7 +57,7 @@ Ao longo da minha trajetória venho atuando em projetos envolvendo:
 
 Essas iniciativas fizeram parte diretamente da minha atuação em ambientes corporativos do setor de energia, com foco em escalabilidade, governança e eficiência operacional.
 
-## 🛠️ Stack Principal
+## Stack Principal
 ### Backend
 
 Python • Django • DRF • Flask • FastAPI
